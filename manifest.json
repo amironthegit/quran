@@ -1,0 +1,9 @@
+{
+  "id": "quran-for-obsidian",
+  "name": "Quran",
+  "version": "1.2.0",
+  "minAppVersion": "1.8.7",
+  "description": "A Quran plugin for Obsidian that allows you to instantly search and insert Ayahs, Surahs, and full pages in both inline and block formats. Search result highlighting, and a surrounding 20-Ayah context view.",
+  "author": "Mohammad Amir Nazarpour",
+    "isDesktopOnly": false
+}
